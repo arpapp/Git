@@ -13,3 +13,8 @@
 * `git add .` - Stage current directory for commits
 * `git commit -m` - Commit staged data with a message
 * `git commit` - Commit staged data, enter message in vi editor
+
+### Branching commands
+
+* `git branch branchName` - Create branch "branchName"
+* `git checkout branchName` - Go to branch "branchName"
