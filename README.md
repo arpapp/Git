@@ -3,6 +3,7 @@
 ### Information commands
 * `git status`        -Status of current git repo
 * `git config -l`     - List configuration of repo
+* `git config --list` - same as above
 * `git log`           - Log of commits in this repo
 * `git log --oneline` - Compact log listing
 * `git branch` - Display branch information
@@ -18,3 +19,4 @@
 
 * `git branch branchName` - Create branch "branchName"
 * `git checkout branchName` - Go to branch "branchName"
+* `git checkout -b branchName` - Create and checkout "branchName"
